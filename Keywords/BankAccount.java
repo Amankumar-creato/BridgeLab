@@ -24,7 +24,7 @@ class BankAccount {
         }
     }
     public static void main(String[] args) {
-        BankAccount acc1 = new BankAccount("Prakhar", "ACC123", 5000);
+        BankAccount acc1 = new BankAccount("Aman", "A123", 5000);
         acc1.displayDetails();
         BankAccount.getTotalAccounts();
     }
