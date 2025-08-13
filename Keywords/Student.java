@@ -24,7 +24,7 @@ class Student {
         }
     }
     public static void main(String[] args) {
-        Student s1 = new Student("Prakhar", "22BCS123", "A");
+        Student s1 = new Student("Aman", "22BCS1234", "A");
         s1.displayDetails();
         Student.displayTotalStudents();
     }
